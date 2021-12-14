@@ -21,4 +21,6 @@ popular nowadays, and every big social media platform has the capability for use
 add stories, which are short videos, to their platforms. In our app, we will be able to scroll
 short videos that will be stored in the Firebase Firestore database. The final app will look
 like:
+![image](https://user-images.githubusercontent.com/89516817/145933678-d4a8242a-ac77-43f8-b23b-f05f1961711e.png)
+
 
